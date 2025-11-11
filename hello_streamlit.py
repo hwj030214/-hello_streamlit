@@ -2,7 +2,7 @@ import streamlit as st
 
 st.header('st.button')
 
-if st.button('Say hello'):
-     st.write('Why hello there')
+if st.button('Press'):
+     st.write('Hello I'm Woojin Hwang')
 else:
-     st.write('Goodbye')
+     st.write('Who am I?')
